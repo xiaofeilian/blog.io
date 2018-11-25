@@ -9,7 +9,7 @@ tags: [编程随想]
 
 **前提条件安装minGW编译器和java运行环境JDK（注意环境变量的配置）**
 
-**①** *Notepad++*用法：
+**①***Notepad++*用法：
 第一步：打开notepad++，按F5，或者点击菜单栏“运行->运行”，弹出如下对话框，输入：
 
               cmd /k cd /d "$(CURRENT_DIRECTORY)" & g++ "$(FILE_NAME)" -o "$(NAME_PART)" & "$(NAME_PART).exe"
