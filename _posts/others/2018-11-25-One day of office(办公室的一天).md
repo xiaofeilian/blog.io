@@ -2,7 +2,7 @@
 layout: post
 title: One day of office(办公室的一天)
 date: 2018-11-25
-tags: [共产主义临时条例]
+tags: [努力实现共产主义]
 ---
 《One day of office(办公室的一天)》————歌手：熊熊作业
 
