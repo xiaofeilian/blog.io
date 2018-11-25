@@ -6,7 +6,7 @@ categories: blog
 tags: [编程随想]
 ---
 
-*前提条件安装minGW编译器和java运行环境JDK（注意环境变量的配置）*
+**前提条件安装minGW编译器和java运行环境JDK（注意环境变量的配置）
 
 ①Notepad++用法：
 第一步：打开notepad++，按F5，或者点击菜单栏“运行->运行”，弹出如下对话框，输入：
