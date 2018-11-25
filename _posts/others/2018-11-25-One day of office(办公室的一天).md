@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2018-11-25
 title: One day of office(办公室的一天)
-catagaries: blog
+categories: blog
 tags: [实现共产主义]
 ---
 **《One day of office(办公室的一天)》————歌手：熊熊作业**
