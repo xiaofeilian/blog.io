@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: C,C++在Windows环境下编译并运行
 date: 2018-09-27
