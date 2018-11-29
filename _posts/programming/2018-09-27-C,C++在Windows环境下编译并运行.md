@@ -21,3 +21,20 @@ tags: [编程随想]
                  在工具里面的编译选项
 
 **③***Eclipse*直接打开用				 
+
+译文（Translation）：
+
+**Prerequisites to install minGW compiler and java runtime environment JDK (note the configuration of environment variables)**
+
+**1**Notepad++ usage:
+  The first step: open notepad++, press F5, or click the menu bar "Run -> Run", the following dialog box pops up, enter:
+
+              Cmd /k cd /d "$(CURRENT_DIRECTORY)" & g++ "$(FILE_NAME)" -o "$(NAME_PART)" & "$(NAME_PART).exe"
+
+Then click "Save".
+Step 2: After clicking “Save”, the following dialog box pops up, set the name and shortcut key of this command, for example: name input “C/C++ compiler”, shortcut (shortcut) is set to your own habit. Click "OK" and you're done.
+
+**2***Sublime Text* Usage:
+                 Compile options in the tool
+
+**3***Eclipse* open directly
