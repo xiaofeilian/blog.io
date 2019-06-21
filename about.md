@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "小飞镰的家 " 
+description: "乐辅导的家 " 
 header-img: "img/green.jpg"
 ---
 
-我是小飞镰，欢迎来到我的博客！
+我是乐辅导，欢迎来到我的官方网站！
 
 
 
